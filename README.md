@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @sop94
-- 👀 I’m interested in Dev apps
-- 🌱 I’m currently learning js language 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: sleepy guy
-- ⚡ Fun fact: More sleep, More power ⛮ 
+### Hi there 👋 I'm @sop94
+
+🧠 Passionate about creating developer apps  
+🌱 Currently learning JavaScript  
+🤝 Open to collaborating on fun, creative, or useful app projects  
+📫 You can reach me at: [your-email@example.com]  
+😴 Pronouns: Sleepy guy  
+⚡ Fun fact: More sleep = More power ⛮
+
+Thanks for stopping by my GitHub!
+
 
 <!---
 sop94/sop94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
