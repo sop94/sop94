@@ -3,7 +3,7 @@
 🧠 Passionate about creating developer apps  
 🌱 Currently learning JavaScript  
 🤝 Open to collaborating on fun, creative, or useful app projects  
-📫 You can reach me at: [your-email@example.com]  
+📫 You can reach me at: sop94@protonmail.com
 😴 Pronouns: Sleepy guy  
 ⚡ Fun fact: More sleep = More power ⛮
 
